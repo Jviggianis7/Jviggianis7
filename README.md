@@ -12,7 +12,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/CarlosLagos27">
+<a href="https://github.com/Jviggianis7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jviggianis7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jviggianis7&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
